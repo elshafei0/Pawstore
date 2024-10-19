@@ -297,6 +297,8 @@ h2 {
   flex-direction: column;
   gap: 15px;
 }
+.before-footer img:hover{
+  scale:1;}
 footer {
   margin-top: 40px;
   display: flex;
